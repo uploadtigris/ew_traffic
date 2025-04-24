@@ -6,7 +6,7 @@ Traffic is pretty awful in Austin. If you have experienced it before you know wh
 
 I will acknowledge, solving this problem seems impossible. Nevethless, I do not think that should keep anyone from trying. In this project, I will use the latest Data Analysis technologies and Product Management principles to create something I am proud of, and perhaps something that could save me an hour or two a week. Traffic is a universal problem we all face and is deemed a public nuisance. Spiderman would be on the case... but he's not real. Sorry.
 
-Above this description you will find 10 sections. The project is described in such a manner because it documents my progress and reflects real world product development (at least one "cycle" of it). I come from an Economics education and find that companies need to sell something valuable, so I thought why not create something valuable as if I were a company. Maybe that way an organization might hire me to create or improve another product in a similar manner ($$$). Anyway, the sections are
+Above this description you will find 10 sections. The project is described in such a manner because it documents my progress and reflects real world product development (at least one "cycle" of it). I come from an Economics education and find that companies need to sell something valuable, so I thought why not create something valuable as if I were a company. Maybe that way an organization might hire me to create or improve another product in a similar manner ($$$). Anyway, the sections are:
 
 ### 1. Find a problem
 
