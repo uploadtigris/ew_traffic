@@ -1,5 +1,7 @@
 # Traffic Analysis and Prediction
 
+<img src="pic_trulli.jpg" alt="Italian Trulli">
+
 Traffic is pretty awful in Austin. If you have experienced it before you know what I am talking about. Our time is wasted by Mopac and Lamar during rush-hour and I-35... seemingly all of the time. My goal with this project is to make life a little faster from A to B.
 
 I will acknowledge, solving this problem seems impossible. Nevethless, I do not think that should keep anyone from trying. In this project, I will use the latest Data Analysis technologies and Product Management principles to create something I am proud of, and perhaps something that could save me an hour or two a week. Traffic is a universal problem we all face and is deemed a public nuisance. Spiderman would be on the case... but he's not real. Sorry.
