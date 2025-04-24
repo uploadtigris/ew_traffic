@@ -45,6 +45,3 @@ Here I will explore the idea of publishing the project. If the end design ends u
 ### 10. Conclusion
 
 Here I wrap up my thought and any analysis insights that I have found. I'm not totally sure how in depth this will be but I think that there definetly will be at least one or two interesting things as "takeaways".
-
-### 9. Publish Product
-
