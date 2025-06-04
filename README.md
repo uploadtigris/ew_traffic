@@ -1,5 +1,7 @@
 # Traffic Analysis and Prediction
 
+![Project Status](https://img.shields.io/badge/status-in_progress-yellow)
+
 <img src="https://techzette.com/wp-content/uploads/2014/02/traffic-austin.jpg" alt="Traffic in Austin, Texas">
 
 Traffic is pretty awful in Austin. If you have experienced it before you know what I am talking about. Our time is wasted by Mopac and Lamar during rush-hour and I-35... seemingly all of the time. My goal with this project is to make life a little faster from A to B.
